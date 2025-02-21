@@ -21,11 +21,4 @@ Once that is done navigate back to the url found at the bottom of the "propertie
 
 That was Easy!
 
-Now let's use CloudFront to serve the site through HTTPS. <br/>
-
-Navigate to certificate manager in the console. <br/>
-Click on "request certificate" and add in a domain name. Leave all other settings as default and request the certificate. <br/>
-
-
-
 When you are done, make sure to delete the bucket if you do not want to leave the static site up!
