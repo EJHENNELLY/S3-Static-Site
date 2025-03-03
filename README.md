@@ -1,5 +1,5 @@
 # S3-Static-Site
-Host a static website on AWS using S3 and use Cloudfront to serve it through HTTPS
+Host a static website on AWS using S3 
 
 To begin, Navigate to AWS console and search S3. <br/>
 Create a bucket, give it a unique name, leave everything else default and proceed with creating your bucket. <br/>
